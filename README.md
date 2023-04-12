@@ -1,2 +1,4 @@
-# abstract_base_classes_tutorial
-This is code meant for a tutorial on abstract base classes
+# Abstract Base Classes Tutorial
+
+This repository holds the code for a tutorial on Abstract Base Classes in Python.
+
